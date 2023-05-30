@@ -1,0 +1,9 @@
+body {
+    background-color: #d3f6f8;
+    padding: 5%;
+}
+
+#nombre_de_usuario{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
